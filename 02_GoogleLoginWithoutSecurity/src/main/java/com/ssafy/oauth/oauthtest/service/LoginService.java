@@ -13,6 +13,7 @@ import org.springframework.http.*;
 @RequiredArgsConstructor
 public class LoginService {
 
+    // 0) resource에 있는 설정 파일을 가져오기 위한 객체
     private final Environment env;
 
     // 0) Client로서의 역할을 하기 위한 RestTemplate
