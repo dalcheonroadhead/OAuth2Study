@@ -1,13 +1,13 @@
-package org.ssafy.d210.securitywithjwt;
+package spring_with_jwt2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityWithJwtApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityWithJwtApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

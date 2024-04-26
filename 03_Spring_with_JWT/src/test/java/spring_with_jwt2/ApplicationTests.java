@@ -1,10 +1,10 @@
-package org.ssafy.d210.securitywithjwt;
+package spring_with_jwt2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SecurityWithJwtApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
