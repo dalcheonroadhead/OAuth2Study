@@ -1,4 +1,4 @@
-package spring_with_jwt2;
+package spring_with_jwt2.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
